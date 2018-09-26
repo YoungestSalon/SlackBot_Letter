@@ -1,0 +1,5 @@
+.pytest_cache
+rtmbot.log
+secret.py
+Pipfile
+Pipfile.lock
